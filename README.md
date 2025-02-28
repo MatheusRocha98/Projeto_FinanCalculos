@@ -19,6 +19,7 @@ ela não se torne sua nova favorita.)
 
 # Como usar?
 
-* Muito simples,1-  baixe o FinanCálculos.exe.
+* Muito simples,
+* 1- baixe o FinanCálculos.exe.
 * 2- Após baixar, é só abrir e começar a usar ( não necessita instalação )
 * # Simples, não é mesmo ? Espero que gostem e que essa cálculadora ajude-os em suas tarefas.
