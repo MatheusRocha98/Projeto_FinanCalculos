@@ -15,8 +15,7 @@ ela não se torne sua nova favorita.)
 
 # Qual meu objetivo com esse projeto?
 
-* Meu objetivo é fornecer um programa bom e gratuito, que com certeza, agregará muito para pessoas que lidam muito com cálculos financeiros e precisam de
-um programa otimizado e ágil voltado para os principais tipos de cálculos financeiros.
+* Meu objetivo é fornecer um programa bom, gratuito, leve e sem necessidade de instalação, que com certeza, agregará muito para pessoas que lidam muito com cálculos financeiros e precisam de um programa otimizado e ágil voltado para os principais tipos de cálculos financeiros.
 
 # Como usar?
 
