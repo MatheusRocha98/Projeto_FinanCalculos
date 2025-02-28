@@ -12,3 +12,8 @@ liquidando assim, a necessidade de elaborar cálculos com uma calculadora normal
 parte do trabalho com a questão dos cálculos, deixando somente a obrigação para o usuário de escolher qual cálculo quer fazer e os
 valores que o irá utilizar para cada tipo de cálculo. (Sei que existem inúmeras dessas, mas se quiserem, fiquem a vontade para testar essa,e quem sabe
 ela não se torne sua nova favorita.)
+
+# Qual meu objetivo com esse projeto?
+
+* Meu objetivo é fornecer um programa bom e gratuito, que com certeza, agregará muito para pessoas que lidam muito com cálculos financeiros e precisam de
+um programa otimizado e ágil voltado para os principais tipos de cálculos financeiros.
