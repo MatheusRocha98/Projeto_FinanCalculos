@@ -12,4 +12,4 @@ dominio sem necessitar ou necessitando pouco de auxilio de IA. ). Optei por deix
 liquidando assim, a necessidade de elaborar cálculos com uma calculadora normal, uma vez que, essa calculadora que desenvolvi ja faz a maior
 parte do trabalho com a questão dos cálculos, deixando somente a obrigação para o usuário de escolher qual cálculo quer fazer e os
 valores que o irá utilizar para cada tipo de cálculo. (Sei que existem inúmeras dessas, mas se quiserem, fiquem a vontade para testar essa,e quem sabe
-ela não se torne sua nova favorita.
+ela não se torne sua nova favorita.)
