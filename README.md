@@ -1,6 +1,6 @@
 # Projeto FinanCálculos
 
-* Oque é o FinanCálculos? FinanCálculos é calculadora financeira desenvolvida por mim em Python usando 50% dos meus conhecimentos
+* Oque é o FinanCálculos? FinanCálculos é uma calculadora financeira desenvolvida por mim em Python usando 50% dos meus conhecimentos
 em Python como : ( funções para cada tipo de cálculo disponivel como 'descontos', 'juros', 'comissão' e etc. ) e 50% usando Engenharia de
 Prompt no DeepSeek ( usei Engenharia de Prompt na parte do tkinter para a criação da interface , que não é meu ponto forte, visto que minha proficiência
 em Python é mais voltado para análise de dados usando frameworks como Pandas, Numpy, Matplot e scikit ( frameworks dos quais eu tenho um bom
