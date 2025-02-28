@@ -17,3 +17,9 @@ ela não se torne sua nova favorita.)
 
 * Meu objetivo é fornecer um programa bom e gratuito, que com certeza, agregará muito para pessoas que lidam muito com cálculos financeiros e precisam de
 um programa otimizado e ágil voltado para os principais tipos de cálculos financeiros.
+
+# Como usar?
+
+* Muito simples,1-  baixe o FinanCálculos.exe.
+* 2- Após baixar, é só abrir e começar a usar ( não necessita instalação )
+* # Simples... não é? Espero que gostem e que essa cálculadora ajude-os em suas tarefas.
