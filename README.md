@@ -22,3 +22,7 @@ ela não se torne sua nova favorita.)
 * 1- baixe o FinanCálculos.exe.
 * 2- Após baixar, é só abrir e começar a usar ( não necessita instalação )
 * # Simples, não é mesmo ? Espero que gostem e que essa cálculadora ajude-os em suas tarefas.
+
+* # Atualização:
+
+* Códigos usados na criação do programa agora disponivel para download nos formatos de arquivos: .py e .ipynb
