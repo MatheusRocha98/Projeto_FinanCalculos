@@ -26,3 +26,8 @@ ela não se torne sua nova favorita.)
 * # Atualização:
 
 * Códigos usados na criação do programa agora disponiveis para download nos seguintes formatos: .py e .ipynb
+
+* # Como usar os arquivos:
+  * Tenha instalado em sua máquina o Anaconda e/ou algum outro editor de códigos Python, como por exemplo, VSCode.
+  * instale a biblioteca tkinter no terminal do seu editor de códigos com o seguinte comando: pip install tkinter
+  * é só copiar o código e colar no seu editor, seguindo os passos anteriores, funcionará corretamente.
