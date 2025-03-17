@@ -25,4 +25,4 @@ ela não se torne sua nova favorita.)
 
 * # Atualização:
 
-* Códigos usados na criação do programa agora disponivel para download nos formatos de arquivos: .py e .ipynb
+* Códigos usados na criação do programa agora disponiveis para download nos seguintes formatos: .py e .ipynb
